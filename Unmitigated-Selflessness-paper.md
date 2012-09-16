@@ -63,9 +63,9 @@ Factor 2 - closeness:
  * __Level 2__:  spending time with them
  * __Level 3__:  chatting
  * __Level 4__:  talking about issues and telling you what they would do based on their values. “here’s what I would do”
- * Level 5:  Talking about issues and them having curiosity towards your differences in values and why their solution might not match.
- * Level 6:  By virtue of having idea on your mind the other person knows it’s worth talking about and understanding completely.
- * Level 7:  By virtue of having something on your mind about how your loved one lives their life the other person feels it’s worth putting as much effort as it takes understanding completely and possibly changing.
+ * __Level 5__:  Talking about issues and them having curiosity towards your differences in values and why their solution might not match.
+ * __Level 6__:  By virtue of having idea on your mind the other person knows it’s worth talking about and understanding completely.
+ * __Level 7__:  By virtue of having something on your mind about how your loved one lives their life the other person feels it’s worth putting as much effort as it takes understanding completely and possibly changing.
 
 #####An unmitigatedly selfless person might come into a great deal of roadblocks in their progress towards achieving the highest level of closeness (and, in turn, giving their loved one the best).  There are several strategies they can adopt in an attempt to overcome these roadblocks.  they can generally be split up into 2 categories,  meek (like children to parents, young to old,  student to teacher,  etc) and seasoned (like adult to child or adult to adult)
 

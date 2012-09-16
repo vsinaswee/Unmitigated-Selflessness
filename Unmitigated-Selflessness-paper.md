@@ -131,10 +131,10 @@ in a desperate attempt to impress others, some gritty self destruct their accoun
 Conclusions &amp; Concrete Potential Answers:
 ===========================================
 
-###Kids
+##Kids
 Unmitigatedly selfless kids initially like complements of their impressiveness because they hope some form of extra closeness in addition to it.
 
-###Day to Day
+##Day to Day
 It causes an a great deal more grief than those close to you might deserve to have your way of life closed off and unchangeable.  One should work to get to the point where they could imagine some way for someone to get close enough to help you in the “best” way.
 
 A good way to spare others from mental issues is to work towards providing a step by step instructions on how others could raise their closeness levels with you.  
@@ -143,5 +143,5 @@ Treat others interactions as if their end goals are unmitigated selflessness.
 
 Even though someone may already deserve to be close enough.  Just acknowledging something impressive about them and then before you intend to get closer might be a nice way to make sense of the harshness of the world.
 
-###Therapy
+##Therapy
 If you intend to help someone having problems, in a addition to treating it as if its their end goal, you should try to find something interesting in their problems that is of valuable  and  might change and improve yourself because of it.

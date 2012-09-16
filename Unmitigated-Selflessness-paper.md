@@ -88,8 +88,8 @@ Follow the exact words of how they see you and the rules they define as if they 
 If conformist submissive literal isn’t getting you anywhere, you assume it would take something besides what they tell you to impress them.  If your relationship is not far along in levels of closeness, you have to try to pick of their cues and make guesses on ways to impress them.  If something doesn’t work, questions arise if you had the right cue, or if you didn’t try hard enough on your current one.   Might sometimes resemble the defiant defiant strategy.
 
 
-Seasoned strategies:
-=
+#Seasoned strategies:
+
 
 ##Premature closeness:
 with the theory of unmitigated selflessness holding that the awesomest way possible is to help them results in them being convinced to change; some are driven to resort to trying to change people before the other person feels close enough.  Some desperate actions might include making deals, threats, and other not entirely genuine tactics.  After experiencing this, some might see this as a good reason to change their definition of how to help someone the best way.

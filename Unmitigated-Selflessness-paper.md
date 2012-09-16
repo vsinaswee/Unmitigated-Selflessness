@@ -1,45 +1,58 @@
 What this paper is and is not:
+------------------------------
+
 It’s not trying to convince you we live in some kind of magic rainbow land where everyone is a good person and eats cupcakes.  It doesn’t even require that anyone is a good person. 
 
  It’s merely proposing that, for those who are into using social science to get this next generation less messed up than the last, it might worth a look to see who benefits from being treated as having the most positive qualities and working your way down; instead of assuming more dehumanizing qualities first.  People should be scientifically exploring every facet of everything. No matter how experienced a  prediction is, a predictions still doesn't count as exploring.
 
 Abstract:
+---------
+
  It’s very hard to take people in all at once without making at least some assumptions, especially when they behave in a sporadic, emotionally unstable ways.  Others often treat them as though something went wrong whilst they were acting on behalf of their core survival instincts,  core sexual drive, core fear of being alone, core fear of death, or core desire to be happy... ect. 
 
 In this thesis I will propose an alternative “core” drive:  unmitigated selflessness.  Although very few people (or maybe even none at all) have this core drive, it may be better for some to start assuming a positive quality and give the person a chance to correct if there is a mistake.
 
 
-Theory of unmitigated selflessness states that:
--A reasonable first approach is to assume people are driven by a positive quality.
--A core unmitigated selfless drive is the most fitting positive quality to assume first.
+####Theory of unmitigated selflessness states that:
+ * A reasonable first approach is to assume people are driven by a positive quality.
+ * A core unmitigated selfless drive is the most fitting positive quality to assume first.
 
 Although there may be a mix reasons people do certain things, the theory of unmitigated selflessness doesn’t not dismiss them as non-existent.
 
-Differences:
-Mitigated selflessness:  “My loved ones don’t deserve the best, maybe 2nd, 3rd, good enough. ” or “my loved ones deserve the best, but I do not feel like putting myself in the best position to provide it.”
-
-Unmitigated selflessness: “my loved ones deserve the best and I aim to getting in the best position to provide that for them, whatever it takes.”
+####Differences:
+> #####Mitigated selflessness:  
+> “My loved ones don’t deserve the best, maybe 2nd, 3rd, good enough. ” or “my loved ones deserve the best, but I do not feel like putting myself in the best position to provide it.”
+>
+> #####Unmitigated selflessness: 
+> “My loved ones deserve the best and I aim to getting in the best position to provide that for them, whatever it takes.”
 
 
 What is the “best”?
+-------------------
+
 The theory of unmitigated selflessness holds, that, because people are sentient and mostly self sustained, the best way to help someone isn’t money, material things, or even shared experiences (although they might be a step forward), but the having the closeness and understanding to provide equal and understood input resulting in others changing their way of life.  Even though one could philosophize about what was the “best” for a good long time, some may (sub)consciously conclude with this definition.
 
-Choosing one's “loved ones”:  Loving and trying to help everyone equally is less efficient than loving and helping your immediate family members.  The notion that “It’s ok just to worry about your loved ones, for now.  Everybody else has their own loved ones to depend on” is assumed.
+Choosing one's “loved ones”:
+----------------------------
+
+Loving and trying to help everyone equally is less efficient than loving and helping your immediate family members.  The notion that “It’s ok just to worry about your loved ones, for now.  Everybody else has their own loved ones to depend on” is assumed.
 
 When It comes to  your purpose being to help others, two semi-related factors come into play:
 
-Factor 1 - impressiveness: Having qualities that would impress others, they might include:
-successful
-self sufficient
-skilled
-wise
-precognitive
-confident
-attractive
-honest
-hardworking
-chill
-finding your own niche, et. 
+Factor 1 - impressiveness:
+--------------------------
+###Having qualities that would impress others, they might include:
+ * successful
+ * self sufficient
+ * skilled
+ * wise
+ * precognitive
+ * confident
+ * attractive
+ * honest
+ * hardworking
+ * chill
+ * finding your own niche, et. 
  Perceptions could be accurate or inaccurate. 
 
 Factor 2 - closeness: How close you are in the relationship to provide the best.

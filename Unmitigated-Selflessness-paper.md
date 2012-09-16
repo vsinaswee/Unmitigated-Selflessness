@@ -13,13 +13,13 @@ Abstract:
 In this thesis I will propose an alternative “core” drive:  unmitigated selflessness.  Although very few people (or maybe even none at all) have this core drive, it may be better for some to start assuming a positive quality and give the person a chance to correct if there is a mistake.
 
 
-### The theory of unmitigated selflessness states that:
+## The theory of unmitigated selflessness states that:
  * A reasonable first approach is to assume people are driven by a positive quality.
  * A core unmitigated selfless drive is the most fitting positive quality to assume first.
 
 Although there may be a mix reasons people do certain things, the theory of unmitigated selflessness doesn’t not dismiss them as non-existent.
 
-####Differences:
+###Differences:
 > #####Mitigated selflessness:  
 > “My loved ones don’t deserve the best, maybe 2nd, 3rd, good enough. ” or “my loved ones deserve the best, but I do not feel like putting myself in the best position to provide it.”
 >

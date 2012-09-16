@@ -70,7 +70,7 @@ Factor 2 - closeness:
 #####An unmitigatedly selfless person might come into a great deal of roadblocks in their progress towards achieving the highest level of closeness (and, in turn, giving their loved one the best).  There are several strategies they can adopt in an attempt to overcome these roadblocks.  they can generally be split up into 2 categories,  meek (like children to parents, young to old,  student to teacher,  etc) and seasoned (like adult to child or adult to adult)
 
 Meek strategies:
-----------------
+=
 
 ###conformist submissive strategy: 
 Impress those whom you wish to deliver the best by giving their rules and labels they assign your best shot. Hopefully they will be so impressed, they will be interested in understanding your ideas of who you want to be.
@@ -89,19 +89,19 @@ If conformist submissive literal isn’t getting you anywhere, you assume it wou
 
 
 Seasoned strategies:
---------------------
+=
 
-###Premature closeness:
+##Premature closeness:
 with the theory of unmitigated selflessness holding that the awesomest way possible is to help them results in them being convinced to change; some are driven to resort to trying to change people before the other person feels close enough.  Some desperate actions might include making deals, threats, and other not entirely genuine tactics.  After experiencing this, some might see this as a good reason to change their definition of how to help someone the best way.
 
-###External event dependence: 
+##External event dependence: 
 Rely on forces outside your control to get closer:
 
--   #####initial:  
-    make chance connections in the processes of trying to become more impressive, try out an identity to impress someone more seasoned, or trying to get close and/or help another, without specific deliberate effort to get close(unless that is what the identity you're trying out would do)
+###initial:  
+make chance connections in the processes of trying to become more impressive, try out an identity to impress someone more seasoned, or trying to get close and/or help another, without specific deliberate effort to get close(unless that is what the identity you're trying out would do)
 
--   #####lasting: 
-    the 2 peoples’ relationship, and current identities results in them unable to move forward in closeness by themselves.  They do not break off the relationship, however, and rely on chance events to bring them closer.
+###lasting: 
+the 2 peoples’ relationship, and current identities results in them unable to move forward in closeness by themselves.  They do not break off the relationship, however, and rely on chance events to bring them closer.
 
 ###Step by step: 
 For those who know their personal requirements for others before they can get close, they give others the step by step instructions to achieve that outcome.  (I’ve never seen or heard anything like this, but it seems like a reasonable conclusion based on the above.)

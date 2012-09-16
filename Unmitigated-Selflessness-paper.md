@@ -58,11 +58,11 @@ Factor 1 - impressiveness:
 Factor 2 - closeness:
 ---------------------
 ###How close you are in the relationship to provide the best. They can be split up between different levels:
- * Level 0: not in contact
- * Level 1:  contact
- * Level 2:  spending time with them
- * Level 3:  chatting
- * Level 4:  talking about issues and telling you what they would do based on their values. “here’s what I would do”
+ * __Level 0__: not in contact
+ * __Level 1__:  contact
+ * __Level 2__:  spending time with them
+ * __Level 3__:  chatting
+ * __Level 4__:  talking about issues and telling you what they would do based on their values. “here’s what I would do”
  * Level 5:  Talking about issues and them having curiosity towards your differences in values and why their solution might not match.
  * Level 6:  By virtue of having idea on your mind the other person knows it’s worth talking about and understanding completely.
  * Level 7:  By virtue of having something on your mind about how your loved one lives their life the other person feels it’s worth putting as much effort as it takes understanding completely and possibly changing.

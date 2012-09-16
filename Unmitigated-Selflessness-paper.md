@@ -13,7 +13,7 @@ Abstract:
 In this thesis I will propose an alternative “core” drive:  unmitigated selflessness.  Although very few people (or maybe even none at all) have this core drive, it may be better for some to start assuming a positive quality and give the person a chance to correct if there is a mistake.
 
 
-####Theory of unmitigated selflessness states that:
+### The theory of unmitigated selflessness states that:
  * A reasonable first approach is to assume people are driven by a positive quality.
  * A core unmitigated selfless drive is the most fitting positive quality to assume first.
 
@@ -37,7 +37,7 @@ Choosing one's “loved ones”:
 
 Loving and trying to help everyone equally is less efficient than loving and helping your immediate family members.  The notion that “It’s ok just to worry about your loved ones, for now.  Everybody else has their own loved ones to depend on” is assumed.
 
-When It comes to  your purpose being to help others, two semi-related factors come into play:
+####When It comes to  your purpose being to help others, two semi-related factors come into play:
 
 Factor 1 - impressiveness:
 --------------------------
@@ -67,7 +67,7 @@ Factor 2 - closeness:
  * Level 6:  By virtue of having idea on your mind the other person knows it’s worth talking about and understanding completely.
  * Level 7:  By virtue of having something on your mind about how your loved one lives their life the other person feels it’s worth putting as much effort as it takes understanding completely and possibly changing.
 
-#####An unmitigatedly selfless person might come into a great deal of roadblocks in their progress towards achieving the highest level of closeness (and, in turn, giving their loved one the best).  There are several strategies they can adopt in an attempt to overcome these roadblocks.  they can generally be split up into 2 categories,  meek (like children to parents, young to old,  student to teacher,  etc) and seasoned (like adult to child or adult to adult)##### 
+#####An unmitigatedly selfless person might come into a great deal of roadblocks in their progress towards achieving the highest level of closeness (and, in turn, giving their loved one the best).  There are several strategies they can adopt in an attempt to overcome these roadblocks.  they can generally be split up into 2 categories,  meek (like children to parents, young to old,  student to teacher,  etc) and seasoned (like adult to child or adult to adult)
 
 Meek strategies:
 ----------------
@@ -94,7 +94,7 @@ Seasoned strategies:
 ###Premature closeness:
 with the theory of unmitigated selflessness holding that the awesomest way possible is to help them results in them being convinced to change; some are driven to resort to trying to change people before the other person feels close enough.  Some desperate actions might include making deals, threats, and other not entirely genuine tactics.  After experiencing this, some might see this as a good reason to change their definition of how to help someone the best way.
 
-####External event dependence: 
+###External event dependence: 
 Rely on forces outside your control to get closer:
 
 -   #####initial:  
@@ -103,29 +103,36 @@ Rely on forces outside your control to get closer:
 -   #####lasting: 
     the 2 peoples’ relationship, and current identities results in them unable to move forward in closeness by themselves.  They do not break off the relationship, however, and rely on chance events to bring them closer.
 
-####Step by step: 
+###Step by step: 
 For those who know their personal requirements for others before they can get close, they give others the step by step instructions to achieve that outcome.  (I’ve never seen or heard anything like this, but it seems like a reasonable conclusion based on the above.)
 
 Outcomes:
+---------
 
-Desire to give an experience they don’t want: If a  meek person is currently using the “conformist submissive signaled” and a seasoned person uses of the “Premature Closeness” strategy, The meeker would resort to pretending they don’t care for closeness specifically so the other person would make the deal that if they changed, they would allow them be close.  They both get a twisted victory.  The “conformist submissive signaled” user gets closer, and the “premature closeness” user achieves an empty point in helping someone in the best way possible. 
+###Desire to give an experience they don’t want: 
+If a  meek person is currently using the “conformist submissive signaled” and a seasoned person uses of the “Premature Closeness” strategy, The meeker would resort to pretending they don’t care for closeness specifically so the other person would make the deal that if they changed, they would allow them be close.  They both get a twisted victory.  The “conformist submissive signaled” user gets closer, and the “premature closeness” user achieves an empty point in helping someone in the best way possible. 
 
-Gritty self-destruction: eager to show their loved ones, and the world, just how much they are willing to give up and how hard they push themselves, they pour so much effort energy into a strategy or undesirable identity, they forget who they were before, and why they were doing it in the first place. Their old self is destroyed.
+###Gritty self-destruction: 
+eager to show their loved ones, and the world, just how much they are willing to give up and how hard they push themselves, they pour so much effort energy into a strategy or undesirable identity, they forget who they were before, and why they were doing it in the first place. Their old self is destroyed.
 
-Punishment on behalf: Those who may be trying the identity of “bad person”, or have other core drives, but still hold much value in the way of selflessness, decide to punish those who would make life harder for the unmitigatedly selfless person.  Figuring out whether punishment is deserved is usually based on questions like “how much does this person know about me?”, “do they know enough to know if I’m a bad person?”,  “if they treat me like garbage, and don’t know that I’m a bad person, I should make life harder for them”
+###Punishment on behalf: 
+Those who may be trying the identity of “bad person”, or have other core drives, but still hold much value in the way of selflessness, decide to punish those who would make life harder for the unmitigatedly selfless person.  Figuring out whether punishment is deserved is usually based on questions like “how much does this person know about me?”, “do they know enough to know if I’m a bad person?”,  “if they treat me like garbage, and don’t know that I’m a bad person, I should make life harder for them”
 
 
-Pitch impression fog: The state of being lost and bewildered on telling when the effort to being impressive enough is finished or if you are being given another “test” for your impressiveness , and what to do when the game to impress is over.
+###Pitch impression fog: 
+The state of being lost and bewildered on telling when the effort to being impressive enough is finished or if you are being given another “test” for your impressiveness , and what to do when the game to impress is over.
 
-impressiveness counter flow:   in a desperate attempt to impress others, some gritty self destruct their accountability to gain a perceived edge on their precognitive and confidence abilities.  They proceed to try to predict events or what is best for others, thinking that, if their predictions are accurate, they can leave others impressed enough to achieve a one sided closeness level of 6 (they would be interested in what other ideas are on your mind), despite their callus disinterest in other peoples way of life being counter to the golden rule,”treat others how you want to be treated”
+###impressiveness counter flow:
+in a desperate attempt to impress others, some gritty self destruct their accountability to gain a perceived edge on their precognitive and confidence abilities.  They proceed to try to predict events or what is best for others, thinking that, if their predictions are accurate, they can leave others impressed enough to achieve a one sided closeness level of 6 (they would be interested in what other ideas are on your mind), despite their callus disinterest in other peoples way of life being counter to the golden rule,”treat others how you want to be treated”
 
 
 Conclusions and Concrete Potential Answers:
+===========================================
 
-Kids
+###Kids
 Unmitigatedly selfless kids initially like complements of their impressiveness because they hope some form of extra closeness in addition to it.
 
-Day to Day
+###Day to Day
 It causes an a great deal more grief than those close to you might deserve to have your way of life closed off and unchangeable.  One should work to get to the point where they could imagine some way for someone to get close enough to help you in the “best” way.
 
 A good way to spare others from mental issues is to work towards providing a step by step instructions on how others could raise their closeness levels with you.  
@@ -134,5 +141,5 @@ Treat others interactions as if their end goals are unmitigated selflessness.
 
 Even though someone may already deserve to be close enough.  Just acknowledging something impressive about them and then before you intend to get closer might be a nice way to make sense of the harshness of the world.
 
-Therapy
+###Therapy
 If you intend to help someone having problems, in a addition to treating it as if its their end goal, you should try to find something interesting in their problems that is of valuable  and  might change and improve yourself because of it.

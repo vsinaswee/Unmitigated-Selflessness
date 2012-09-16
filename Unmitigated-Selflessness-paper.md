@@ -69,7 +69,8 @@ Factor 2 - closeness:
 
 #####An unmitigatedly selfless person might come into a great deal of roadblocks in their progress towards achieving the highest level of closeness (and, in turn, giving their loved one the best).  There are several strategies they can adopt in an attempt to overcome these roadblocks.  they can generally be split up into 2 categories,  meek (like children to parents, young to old,  student to teacher,  etc) and seasoned (like adult to child or adult to adult)
 
-#Meek strategies:
+Meek strategies:
+================
 
 
 ##conformist submissive strategy: 
@@ -88,7 +89,8 @@ Follow the exact words of how they see you and the rules they define as if they 
 If conformist submissive literal isn’t getting you anywhere, you assume it would take something besides what they tell you to impress them.  If your relationship is not far along in levels of closeness, you have to try to pick of their cues and make guesses on ways to impress them.  If something doesn’t work, questions arise if you had the right cue, or if you didn’t try hard enough on your current one.   Might sometimes resemble the defiant defiant strategy.
 
 
-#Seasoned strategies:
+Seasoned strategies:
+=====================
 
 
 ##Premature closeness:
@@ -107,27 +109,27 @@ the 2 peoples’ relationship, and current identities results in them unable to 
 For those who know their personal requirements for others before they can get close, they give others the step by step instructions to achieve that outcome.  (I’ve never seen or heard anything like this, but it seems like a reasonable conclusion based on the above.)
 
 Outcomes:
----------
+=========
 
-###Desire to give an experience they don’t want: 
+##Desire to give an experience they don’t want: 
 If a  meek person is currently using the “conformist submissive signaled” and a seasoned person uses of the “Premature Closeness” strategy, The meeker would resort to pretending they don’t care for closeness specifically so the other person would make the deal that if they changed, they would allow them be close.  They both get a twisted victory.  The “conformist submissive signaled” user gets closer, and the “premature closeness” user achieves an empty point in helping someone in the best way possible. 
 
-###Gritty self-destruction: 
+##Gritty self-destruction: 
 eager to show their loved ones, and the world, just how much they are willing to give up and how hard they push themselves, they pour so much effort energy into a strategy or undesirable identity, they forget who they were before, and why they were doing it in the first place. Their old self is destroyed.
 
-###Punishment on behalf: 
+##Punishment on behalf: 
 Those who may be trying the identity of “bad person”, or have other core drives, but still hold much value in the way of selflessness, decide to punish those who would make life harder for the unmitigatedly selfless person.  Figuring out whether punishment is deserved is usually based on questions like “how much does this person know about me?”, “do they know enough to know if I’m a bad person?”,  “if they treat me like garbage, and don’t know that I’m a bad person, I should make life harder for them”
 
 
-###Pitch impression fog: 
+##Pitch impression fog: 
 The state of being lost and bewildered on telling when the effort to being impressive enough is finished or if you are being given another “test” for your impressiveness , and what to do when the game to impress is over.
 
-###impressiveness counter flow:
+##impressiveness counter flow:
 in a desperate attempt to impress others, some gritty self destruct their accountability to gain a perceived edge on their precognitive and confidence abilities.  They proceed to try to predict events or what is best for others, thinking that, if their predictions are accurate, they can leave others impressed enough to achieve a one sided closeness level of 6 (they would be interested in what other ideas are on your mind), despite their callus disinterest in other peoples way of life being counter to the golden rule,”treat others how you want to be treated”
 
 
-Conclusions and Concrete Potential Answers:
--------------------------------------------
+Conclusions &amp; Concrete Potential Answers:
+===========================================
 
 ###Kids
 Unmitigatedly selfless kids initially like complements of their impressiveness because they hope some form of extra closeness in addition to it.

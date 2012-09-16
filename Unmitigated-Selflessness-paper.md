@@ -97,11 +97,11 @@ with the theory of unmitigated selflessness holding that the awesomest way possi
 ####External event dependence: 
 Rely on forces outside your control to get closer:
 
-- #####initial:  
-- make chance connections in the processes of trying to become more impressive, try out an identity to impress someone more seasoned, or trying to get close and/or help another, without specific deliberate effort to get close(unless that is what the identity you're trying out would do)
+-   #####initial:  
+    make chance connections in the processes of trying to become more impressive, try out an identity to impress someone more seasoned, or trying to get close and/or help another, without specific deliberate effort to get close(unless that is what the identity you're trying out would do)
 
-- #####lasting: 
-- the 2 peoples’ relationship, and current identities results in them unable to move forward in closeness by themselves.  They do not break off the relationship, however, and rely on chance events to bring them closer.
+-   #####lasting: 
+    the 2 peoples’ relationship, and current identities results in them unable to move forward in closeness by themselves.  They do not break off the relationship, however, and rely on chance events to bring them closer.
 
 ####Step by step: 
 For those who know their personal requirements for others before they can get close, they give others the step by step instructions to achieve that outcome.  (I’ve never seen or heard anything like this, but it seems like a reasonable conclusion based on the above.)

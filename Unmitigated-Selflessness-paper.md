@@ -19,7 +19,7 @@ In this thesis I will propose an alternative “core” drive:  unmitigated self
 
 Although there may be a mix reasons people do certain things, the theory of unmitigated selflessness doesn’t not dismiss them as non-existent.
 
-###Differences:
+##Differences:
 > #####Mitigated selflessness:  
 > “My loved ones don’t deserve the best, maybe 2nd, 3rd, good enough. ” or “my loved ones deserve the best, but I do not feel like putting myself in the best position to provide it.”
 >

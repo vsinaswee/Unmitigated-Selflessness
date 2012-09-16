@@ -59,41 +59,52 @@ Factor 2 - closeness:
 ---------------------
 ###How close you are in the relationship to provide the best. They can be split up between different levels:
  * Level 0: not in contact
- * Level 1: contact
- * Level 2: spending time with them
- * Level 3: chatting
- * Level 4: talking about issues and telling you what they would do based on their values. “here’s what I would do”
- * Level 5: Talking about issues and them having curiosity towards your differences in values and why their solution might not match.
+ * Level 1:  contact
+ * Level 2:  spending time with them
+ * Level 3:  chatting
+ * Level 4:  talking about issues and telling you what they would do based on their values. “here’s what I would do”
+ * Level 5:  Talking about issues and them having curiosity towards your differences in values and why their solution might not match.
  * Level 6:  By virtue of having idea on your mind the other person knows it’s worth talking about and understanding completely.
- * Level 7: By virtue of having something on your mind about how your loved one lives their life the other person feels it’s worth putting as much effort as it takes understanding completely and possibly changing.
+ * Level 7:  By virtue of having something on your mind about how your loved one lives their life the other person feels it’s worth putting as much effort as it takes understanding completely and possibly changing.
 
 #####An unmitigatedly selfless person might come into a great deal of roadblocks in their progress towards achieving the highest level of closeness (and, in turn, giving their loved one the best).  There are several strategies they can adopt in an attempt to overcome these roadblocks.  they can generally be split up into 2 categories,  meek (like children to parents, young to old,  student to teacher,  etc) and seasoned (like adult to child or adult to adult)##### 
 
-Meek strategies: 
+Meek strategies:
+----------------
 
-conformist submissive strategy: Impress those whom you wish to deliver the best by giving their rules and labels they assign your best shot. Hopefully they will be so impressed, they will be interested in understanding your ideas of who you want to be.
+###conformist submissive strategy: 
+Impress those whom you wish to deliver the best by giving their rules and labels they assign your best shot. Hopefully they will be so impressed, they will be interested in understanding your ideas of who you want to be.
 
-deviant defiant strategy: communicate your frustration and desire to communicate by acting out.  Assuming they love you the same way you love them, they would be prepared to try everything to figure out what is wrong, including trying to open up the level of closeness and communication required for you to give them the best.
+###deviant defiant strategy: 
+communicate your frustration and desire to communicate by acting out.  Assuming they love you the same way you love them, they would be prepared to try everything to figure out what is wrong, including trying to open up the level of closeness and communication required for you to give them the best.
 
-Both strategies at once: due to cognitive dissonance and the added difficulty of trying to figure out exactly what you are thinking by yourself,  people may take of one strategy in one area of life and one in another.
+###Both strategies at once: 
+due to cognitive dissonance and the added difficulty of trying to figure out exactly what you are thinking by yourself,  people may take of one strategy in one area of life and one in another.
 
-Conformist submissive literal:  Follow the exact words of how they see you and the rules they define as if they were step by step instructions on getting close to them.
+###Conformist submissive literal:  
+Follow the exact words of how they see you and the rules they define as if they were step by step instructions on getting close to them.
 
-Conformist submissive signaled:  If conformist submissive literal isn’t getting you anywhere, you assume it would take something besides what they tell you to impress them.  If your relationship is not far along in levels of closeness, you have to try to pick of their cues and make guesses on ways to impress them.  If something doesn’t work, questions arise if you had the right cue, or if you didn’t try hard enough on your current one.   Might sometimes resemble the defiant defiant strategy.
+###Conformist submissive signaled:  
+If conformist submissive literal isn’t getting you anywhere, you assume it would take something besides what they tell you to impress them.  If your relationship is not far along in levels of closeness, you have to try to pick of their cues and make guesses on ways to impress them.  If something doesn’t work, questions arise if you had the right cue, or if you didn’t try hard enough on your current one.   Might sometimes resemble the defiant defiant strategy.
 
 
 Seasoned strategies:
+--------------------
 
-Premature closeness: with the theory of unmitigated selflessness holding that the awesomest way possible is to help them results in them being convinced to change; some are driven to resort to trying to change people before the other person feels close enough.  Some desperate actions might include making deals, threats, and other not entirely genuine tactics.  After experiencing this, some might see this as a good reason to change their definition of how to help someone the best way.
+###Premature closeness:
+with the theory of unmitigated selflessness holding that the awesomest way possible is to help them results in them being convinced to change; some are driven to resort to trying to change people before the other person feels close enough.  Some desperate actions might include making deals, threats, and other not entirely genuine tactics.  After experiencing this, some might see this as a good reason to change their definition of how to help someone the best way.
 
-External event dependence: 
+####External event dependence: 
 Rely on forces outside your control to get closer:
 
-initial:  make chance connections in the processes of trying to become more impressive, try out an identity to impress someone more seasoned, or trying to get close and/or help another, without specific deliberate effort to get close(unless that is what the identity you're trying out would do)
+- #####initial:  
+- make chance connections in the processes of trying to become more impressive, try out an identity to impress someone more seasoned, or trying to get close and/or help another, without specific deliberate effort to get close(unless that is what the identity you're trying out would do)
 
-lasting: the 2 peoples’ relationship, and current identities results in them unable to move forward in closeness by themselves.  They do not break off the relationship, however, and rely on chance events to bring them closer.
+- #####lasting: 
+- the 2 peoples’ relationship, and current identities results in them unable to move forward in closeness by themselves.  They do not break off the relationship, however, and rely on chance events to bring them closer.
 
-Step by step: For those who know their personal requirements for others before they can get close, they give others the step by step instructions to achieve that outcome.  (I’ve never seen or heard anything like this, but it seems like a reasonable conclusion based on the above.)
+####Step by step: 
+For those who know their personal requirements for others before they can get close, they give others the step by step instructions to achieve that outcome.  (I’ve never seen or heard anything like this, but it seems like a reasonable conclusion based on the above.)
 
 Outcomes:
 

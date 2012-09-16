@@ -1,12 +1,12 @@
-What this paper is and is not:
-------------------------------
+What this paper is and is not
+-----------------------------
 
 It’s not trying to convince you we live in some kind of magic rainbow land where everyone is a good person and eats cupcakes.  It doesn’t even require that anyone is a good person. 
 
  It’s merely proposing that, for those who are into using social science to get this next generation less messed up than the last, it might worth a look to see who benefits from being treated as having the most positive qualities and working your way down; instead of assuming more dehumanizing qualities first.  People should be scientifically exploring every facet of everything. No matter how experienced a  prediction is, predictions STILL don't count.
 
-Abstract:
----------
+Abstract
+--------
 
  It’s very hard to take people in all at once without making at least some assumptions, especially when they behave in a sporadic, emotionally unstable ways.  Others often treat them as though something went wrong whilst they were acting on behalf of their core survival instincts,  core sexual drive, core fear of being alone, core fear of death, or core desire to be happy... ect. 
 
@@ -19,7 +19,7 @@ In this thesis I will propose an alternative “core” drive:  unmitigated self
 
 Although there may be a mix reasons people do certain things, the theory of unmitigated selflessness doesn’t not dismiss them as non-existent.
 
-##Differences:
+##Differences
 > #####Mitigated selflessness:  
 > “My loved ones don’t deserve the best, maybe 2nd, 3rd, good enough. ” or “my loved ones deserve the best, but I do not feel like putting myself in the best position to provide it.”
 >
@@ -32,15 +32,15 @@ What is the “best”?
 
 The theory of unmitigated selflessness holds, that, because people are sentient and mostly self sustained, the best way to help someone isn’t money, material things, or even shared experiences (although they might be a step forward), but the having the closeness and understanding to provide equal and understood input resulting in others changing their way of life.  Even though one could philosophize about what was the “best” for a good long time, some may (sub)consciously conclude with this definition.
 
-Choosing one's loved ones:
-----------------------------
+Choosing one's loved ones
+-------------------------
 
 Loving and trying to help everyone equally is less efficient than loving and helping your immediate family members.  The notion that “It’s ok just to worry about your loved ones, for now.  Everybody else has their own loved ones to depend on” is assumed.
 
 ####When It comes to  your purpose being to help others, two semi-related factors come into play:
 
-Factor 1 - impressiveness:
---------------------------
+Factor 1 - impressiveness
+-------------------------
 ###Having qualities that would impress others, they might include:
  * successful
  * self sufficient
@@ -55,8 +55,8 @@ Factor 1 - impressiveness:
  * finding your own niche, et. 
  Perceptions could be accurate or inaccurate. 
 
-Factor 2 - closeness:
----------------------
+Factor 2 - closeness
+--------------------
 ###How close you are in the relationship to provide the best. They can be split up between different levels:
  * __Level 0__: not in contact
  * __Level 1__:  contact
@@ -69,8 +69,8 @@ Factor 2 - closeness:
 
 #####An unmitigatedly selfless person might come into a great deal of roadblocks in their progress towards achieving the highest level of closeness (and, in turn, giving their loved one the best).  There are several strategies they can adopt in an attempt to overcome these roadblocks.  they can generally be split up into 2 categories,  meek (like children to parents, young to old,  student to teacher,  etc) and seasoned (like adult to child or adult to adult)
 
-Meek strategies:
-================
+Meek strategies
+===============
 
 
 ##conformist submissive strategy: 
@@ -89,8 +89,8 @@ Follow the exact words of how they see you and the rules they define as if they 
 If conformist submissive literal isn’t getting you anywhere, you assume it would take something besides what they tell you to impress them.  If your relationship is not far along in levels of closeness, you have to try to pick of their cues and make guesses on ways to impress them.  If something doesn’t work, questions arise if you had the right cue, or if you didn’t try hard enough on your current one.   Might sometimes resemble the defiant defiant strategy.
 
 
-Seasoned strategies:
-=====================
+Seasoned strategies
+===================
 
 
 ##Premature closeness:
@@ -108,8 +108,8 @@ the 2 peoples’ relationship, and current identities results in them unable to 
 ##Step by step: 
 For those who know their personal requirements for others before they can get close, they give others the step by step instructions to achieve that outcome.  (I’ve never seen or heard anything like this, but it seems like a reasonable conclusion based on the above.)
 
-Outcomes:
-=========
+Outcomes
+========
 
 ##Desire to give an experience they don’t want: 
 If a  meek person is currently using the “conformist submissive signaled” and a seasoned person uses of the “Premature Closeness” strategy, The meeker would resort to pretending they don’t care for closeness specifically so the other person would make the deal that if they changed, they would allow them be close.  They both get a twisted victory.  The “conformist submissive signaled” user gets closer, and the “premature closeness” user achieves an empty point in helping someone in the best way possible. 
@@ -128,8 +128,8 @@ The state of being lost and bewildered on telling when the effort to being impre
 in a desperate attempt to impress others, some gritty self destruct their accountability to gain a perceived edge on their precognitive and confidence abilities.  They proceed to try to predict events or what is best for others, thinking that, if their predictions are accurate, they can leave others impressed enough to achieve a one sided closeness level of 6 (they would be interested in what other ideas are on your mind), despite their callus disinterest in other peoples way of life being counter to the golden rule,”treat others how you want to be treated”
 
 
-Conclusions &amp; Concrete Potential Answers:
-===========================================
+Conclusions &amp; Concrete Potential Answers
+============================================
 
 ##Kids
 Unmitigatedly selfless kids initially like complements of their impressiveness because they hope some form of extra closeness in addition to it.

@@ -32,7 +32,7 @@ What is the “best”?
 
 The theory of unmitigated selflessness holds, that, because people are sentient and mostly self sustained, the best way to help someone isn’t money, material things, or even shared experiences (although they might be a step forward), but the having the closeness and understanding to provide equal and understood input resulting in others changing their way of life.  Even though one could philosophize about what was the “best” for a good long time, some may (sub)consciously conclude with this definition.
 
-Choosing one's “loved ones”:
+Choosing one's loved ones:
 ----------------------------
 
 Loving and trying to help everyone equally is less efficient than loving and helping your immediate family members.  The notion that “It’s ok just to worry about your loved ones, for now.  Everybody else has their own loved ones to depend on” is assumed.

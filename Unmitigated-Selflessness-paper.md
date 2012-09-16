@@ -3,7 +3,7 @@ What this paper is and is not:
 
 It’s not trying to convince you we live in some kind of magic rainbow land where everyone is a good person and eats cupcakes.  It doesn’t even require that anyone is a good person. 
 
- It’s merely proposing that, for those who are into using social science to get this next generation less messed up than the last, it might worth a look to see who benefits from being treated as having the most positive qualities and working your way down; instead of assuming more dehumanizing qualities first.  People should be scientifically exploring every facet of everything. No matter how experienced a  prediction is, a predictions still doesn't count as exploring.
+ It’s merely proposing that, for those who are into using social science to get this next generation less messed up than the last, it might worth a look to see who benefits from being treated as having the most positive qualities and working your way down; instead of assuming more dehumanizing qualities first.  People should be scientifically exploring every facet of everything. No matter how experienced a  prediction is, predictions STILL don't count.
 
 Abstract:
 ---------
@@ -127,7 +127,7 @@ in a desperate attempt to impress others, some gritty self destruct their accoun
 
 
 Conclusions and Concrete Potential Answers:
-===========================================
+-------------------------------------------
 
 ###Kids
 Unmitigatedly selfless kids initially like complements of their impressiveness because they hope some form of extra closeness in addition to it.
